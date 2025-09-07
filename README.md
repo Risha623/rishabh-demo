@@ -1,3 +1,4 @@
 # rishabh-demo
-This is my first git
-author Rishabh
+This is my first git.
+<br>
+Author Rishabh
